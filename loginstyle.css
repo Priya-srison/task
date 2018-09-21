@@ -1,0 +1,57 @@
+body
+{
+	background-image: url(img src="1.jpeg" class="img" alt="Responsive image" width: 100% \9;);
+
+}
+.body{
+	position: absolute;
+	left: 550px;
+	right: 200px;
+	top: 90px;
+	width: 100%\9;
+	height: 900px;
+
+}
+#form1
+{
+	position: absolute;
+	top: 150px;
+	left: 550px;
+	font-family: verdana;
+	font-size: 20px;
+	color: #142170;
+	width: 300px;
+	height: 500px;
+
+}
+#mail
+{
+	top: 150px;
+	left:550px;
+	width: 250px;
+	height: 20px;
+	background:white;
+	border-radius: 5px 5px 5px 5px;
+	padding: 10px;
+	font-size: 15px;
+	margin-top: 8px;
+	border-color: gray ;
+	border-width: 1px;
+	border-style: solid;
+}
+.button
+{
+	width:275px ;
+	height: 40px;
+	left:750px ;
+	top: 625px;
+	background:green;
+	font-family: verdana;
+	font-size: 18px;
+	color: white;
+	border-radius:5px 5px 5px 5px ;
+	border-width: 1px;
+	border-style: solid;
+	cursor: pointer;
+	outline: none;
+}
